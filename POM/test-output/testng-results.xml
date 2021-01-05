@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59428" started-at="2020-12-23T09:30:15Z" finished-at="2020-12-23T09:31:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59428" started-at="2020-12-23T09:30:15Z" finished-at="2020-12-23T09:31:15Z">
+      <class name="com.hrm.PageTestCases.LoginTestCase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hrm.PageTestCases.LoginTestCase@198e2867]" name="setUp" is-config="true" duration-ms="27532" started-at="2020-12-23T15:00:15Z" finished-at="2020-12-23T15:00:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTitel()[pri:0, instance:com.hrm.PageTestCases.LoginTestCase@198e2867]" name="getTitel" duration-ms="158" started-at="2020-12-23T15:00:43Z" finished-at="2020-12-23T15:00:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitel -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.PageTestCases.LoginTestCase@198e2867]" name="teardown" is-config="true" duration-ms="2236" started-at="2020-12-23T15:00:43Z" finished-at="2020-12-23T15:00:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hrm.PageTestCases.LoginTestCase@198e2867]" name="setUp" is-config="true" duration-ms="23715" started-at="2020-12-23T15:00:45Z" finished-at="2020-12-23T15:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.hrm.PageTestCases.LoginTestCase@198e2867]" name="LoginTest" duration-ms="3263" started-at="2020-12-23T15:01:09Z" finished-at="2020-12-23T15:01:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.PageTestCases.LoginTestCase@198e2867]" name="teardown" is-config="true" duration-ms="2448" started-at="2020-12-23T15:01:12Z" finished-at="2020-12-23T15:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.hrm.PageTestCases.LoginTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
